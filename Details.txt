@@ -1,3 +1,8 @@
 1.Basic Calculator
 -------------------------
 A basic calculator developed in PHP showcasing basic mathematical functions
+
+2. Universal_Time_Consolidated
+------------------------------------
+Access time in any of the timezones using timezone picker;
+made using PHP
