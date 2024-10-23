@@ -1,0 +1,3 @@
+1.Basic Calculator
+-------------------------
+A basic calculator developed in PHP showcasing basic mathematical functions
